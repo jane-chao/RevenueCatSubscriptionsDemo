@@ -9,4 +9,8 @@
 ✨ 最低版本需求為 iOS 15 ｜ 請從 [start branch](https://github.com/jane-chao/RevenueCatSubscriptionsDemo/tree/start) 下載開始的專案
 
 #### ⬇️ 跟著影片實作
-[![影片](https://github.com/jane-chao/RevenueCatSubscriptionsDemo/assets/73167311/0e2d8dc3-749a-46fb-8b62-6009ef6c6ab5)](https://youtu.be/3mwHBeVNgQ4)
+<kbd>
+  <a href="https://youtu.be/3mwHBeVNgQ4">
+    <img width=800 src="https://github.com/jane-chao/RevenueCatSubscriptionsDemo/assets/73167311/def56dd3-3bd7-4df7-8646-4854d507aba3" alt="影片">
+  </a>
+</kbd>
